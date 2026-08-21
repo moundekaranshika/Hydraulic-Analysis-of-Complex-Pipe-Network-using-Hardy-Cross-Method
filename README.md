@@ -121,7 +121,7 @@ The implementation uses a maximum of 10 iterations.
 
 ---
 
-## 💻 Implementation
+##  Implementation
 
 ### Technology
 
@@ -206,7 +206,7 @@ a+b+c=d+e
 
 ---
 
-## 📊 Output
+##  Output
 
 After convergence, the program reports the final flow rate through each pipe branch:
 
